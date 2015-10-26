@@ -1,6 +1,6 @@
 # vagrant-manager
 
-Super **rough** PoC of vagrant manager based on electron.
+Super **rough** PoC of vagrant manager based on [Electron](http://electron.atom.io/).
 
 Build with love with vim, [ReactJS](https://facebook.github.io/react/) and [Material UI](http://material-ui.com/#/).
 
